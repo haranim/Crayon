@@ -1,7 +1,8 @@
 
 This project is developed on Visual Studio 2017 version 15.9.3
 
-Dependencies Dotnet Core 2.1.1
+**Dependencies:**
+Dotnet Core 2.1.1
 
 
 Requirements:
