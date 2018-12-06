@@ -1,0 +1,14 @@
+F:\MyProjects\Crayon\Exchange\Exchange\bin\Debug\netcoreapp2.1\Exchange.deps.json
+F:\MyProjects\Crayon\Exchange\Exchange\bin\Debug\netcoreapp2.1\Exchange.runtimeconfig.json
+F:\MyProjects\Crayon\Exchange\Exchange\bin\Debug\netcoreapp2.1\Exchange.runtimeconfig.dev.json
+F:\MyProjects\Crayon\Exchange\Exchange\bin\Debug\netcoreapp2.1\Exchange.dll
+F:\MyProjects\Crayon\Exchange\Exchange\obj\Debug\netcoreapp2.1\Exchange.csproj.CoreCompileInputs.cache
+F:\MyProjects\Crayon\Exchange\Exchange\obj\Debug\netcoreapp2.1\Exchange.RazorAssemblyInfo.cache
+F:\MyProjects\Crayon\Exchange\Exchange\obj\Debug\netcoreapp2.1\Exchange.RazorAssemblyInfo.cs
+F:\MyProjects\Crayon\Exchange\Exchange\obj\Debug\netcoreapp2.1\Exchange.AssemblyInfoInputs.cache
+F:\MyProjects\Crayon\Exchange\Exchange\obj\Debug\netcoreapp2.1\Exchange.AssemblyInfo.cs
+F:\MyProjects\Crayon\Exchange\Exchange\obj\Debug\netcoreapp2.1\Exchange.RazorTargetAssemblyInfo.cache
+F:\MyProjects\Crayon\Exchange\Exchange\bin\Debug\netcoreapp2.1\Exchange.pdb
+F:\MyProjects\Crayon\Exchange\Exchange\obj\Debug\netcoreapp2.1\Exchange.dll
+F:\MyProjects\Crayon\Exchange\Exchange\obj\Debug\netcoreapp2.1\Exchange.pdb
+F:\MyProjects\Crayon\Exchange\Exchange\obj\Debug\netcoreapp2.1\Exchange.csprojAssemblyReference.cache
