@@ -1,8 +1,11 @@
 
 This project is developed on **Visual Studio 2017 version 15.9.3**
 
+
+
 **Dependencies:**
 Dotnet Core 2.1.1
+
 
 
 **Requirements:**
@@ -10,10 +13,15 @@ Dotnet Core 2.1.1
 
 It Calculates the maximum, minimum and the average rates during the date periods
 
+
+
 **Steps to run the application :**
 
 1. Clone the repository into a local folder
 2. Build the application without errors and host the api
+
+
+
 
 GET API has required parameters as Currency and Dates 
 
@@ -26,6 +34,8 @@ Date format :
 yyyy-mm-dd with ',' delimiter
 
 eg: 2018-02-01,2018-02-15,2018-03-01
+
+
 
 
 After the hosting the application the following url gives a result
